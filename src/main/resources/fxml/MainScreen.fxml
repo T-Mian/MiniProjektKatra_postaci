@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="535.0" prefWidth="388.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="KartaControlls.MainControl">
+   <children>
+      <ImageView fitHeight="534.0" fitWidth="414.0" layoutX="1.0" layoutY="1.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <image>
+            <Image url="@../image/0257dfc4c68f48f.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="534.0" fitWidth="507.0" layoutX="11.0" layoutY="1.0" opacity="0.59" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../image/Obramowanie.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
